@@ -1,4 +1,4 @@
-package aula1;
+package src;
 import java.util.Scanner;
 class Praticando_Aula1 {
     public static void main(String[] args) {
